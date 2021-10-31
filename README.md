@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SoundBoySelecta
-- 👀 I’m interested in Big Data, specifically real estate analysis and construction 
-- 🌱 I’m currently learning Web harvesting and GIS
+- 👋 Hi, I’m Vasanth Sadasivan
+- 👀 My interests include Big Data, Data analytics, Data engineering, Machine Learning,  specifically within real estate analysis and construction, web develeopment (HTML5, CSS3, JS: ES6, Python/Django, Ruby/ROR).
+- 🌱 I’m currently researching web integration with python's data science eco system, using Django and  Flask. 
 - 💞️ I’m looking to collaborate on projects related to cancer or covid research, real estate and construction.
 - 📫 How to reach me sndselecta@gmail.com
 
